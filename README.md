@@ -26,7 +26,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working on ....
 - 🌱 I’m currently learning programming Php & Javascript 
-- 💬 Ask me about everything
 - 🤔 My interest lies in full stack web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [habul.tekaje@gmail.com](mailto:habul.tekaje@gmail.com).
