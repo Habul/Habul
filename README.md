@@ -3,17 +3,17 @@
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shihabul-millah-4b24441b5/">
+  <img align="left" alt="Habul LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/habulll">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Habul Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/h4bul">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Habul Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/habul?t=N5HoQudpTGhhSW3wmBNNRw&s=09">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Habul Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
 
