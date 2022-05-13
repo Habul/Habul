@@ -30,7 +30,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m currently learning programming Php & Javascript 
 - 🤔 My interest lies in full stack web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [habul.tekaje@gmail.com](mailto:habul.tekaje@gmail.com).
+- 📫 Email me at [shihabul.millah92@gmail.com](mailto:shihabul.millah92@gmail.com).
 
 **Languages and Tools:**  
 
