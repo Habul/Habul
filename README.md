@@ -24,8 +24,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 🔭 I’m currently working on ....
-- 🌱 I’m currently learning programming Php & Javascript 
-- 🤔 My interest lies in full stack web development.
+- 🌱 I’m currently learning programming Php, Javascript & SAP Abap Developer
+- 🤔 My interest lies in full stack web development & Senior Abap Developer
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [shihabul.millah92@gmail.com](mailto:shihabul.millah92@gmail.com).
 
