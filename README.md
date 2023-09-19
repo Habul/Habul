@@ -17,7 +17,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** **SAP ABAP** ***Enthusiast*** 🚀.
+A **WEB DEVELOPMENT & SAP ABAP** ***Enthusiast*** 🚀.
  
  
 
