@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/h4bul">
   <img align="left" alt="Habul Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.linkedin.com/in/h4bul/">
+  <img align="left" alt="Habul Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://twitter.com/habul?t=N5HoQudpTGhhSW3wmBNNRw&s=09">
   <img align="left" alt="Habul Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
