@@ -16,8 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br/>
+<p align="center">
+  <img alt="Coding GIF" width="420" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</p>
+
 I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves building digital solutions — from modern web applications to SAP-based enterprise systems.
 
 - 🔭 Currently working on **full stack web applications** & **SAP ABAP programs**
@@ -27,8 +29,6 @@ I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves buildi
 - 💬 Ask me about anything — I love to discuss and share knowledge!
 - 📫 Reach me at **[shihabul.millah92@gmail.com](mailto:shihabul.millah92@gmail.com)**
 - ⚡ Fun fact: *Learning to code is like playing a game — the more you try, the higher your level!* 🎮
-
-<br clear="right"/>
 
 ---
 
