@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Habul">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Enthusiast;SAP+ABAP+Developer+in+the+Making;PHP+%7C+JavaScript+%7C+MySQL+%7C+Python;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Enthusiast;SAP+ABAP+Developer+in+the+Making;PHP+%7C+JavaScript+%7C+MySQL+%7C+Python;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -63,16 +63,15 @@ I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Habul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Habul's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habul&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Habul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Habul&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habul/Habul/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Habul/Habul/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Habul/Habul/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
