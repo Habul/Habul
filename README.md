@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Habul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Enthusiast+🚀;SAP+ABAP+Developer+in+the+Making+💼;PHP+%7C+JavaScript+%7C+MySQL+%7C+Python;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Enthusiast;SAP+ABAP+Developer+in+the+Making;PHP+%7C+JavaScript+%7C+MySQL+%7C+Python;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,15 +18,15 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Saya adalah seorang **Web Development & SAP ABAP Enthusiast** 🚀 yang bersemangat membangun solusi digital — mulai dari aplikasi web modern hingga pengembangan sistem enterprise berbasis SAP.
+I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves building digital solutions — from modern web applications to SAP-based enterprise systems.
 
-- 🔭 Saat ini fokus mengembangkan **aplikasi web full stack** & **program SAP ABAP**
-- 🌱 Sedang mendalami **PHP, JavaScript, dan SAP ABAP Development**
-- 🎯 Tujuan karir: menjadi **Full Stack Web Developer** & **Senior ABAP Developer**
-- 💡 Tertarik pada integrasi sistem enterprise (SAP) dengan teknologi web modern
-- 💬 Tanyakan apa saja — saya senang berdiskusi dan berbagi ilmu!
-- 📫 Hubungi saya di **[shihabul.millah92@gmail.com](mailto:shihabul.millah92@gmail.com)**
-- ⚡ Fun fact: *Belajar coding itu seperti main game — makin sering mencoba, makin tinggi levelnya!* 🎮
+- 🔭 Currently working on **full stack web applications** & **SAP ABAP programs**
+- 🌱 Currently learning **PHP, JavaScript, and SAP ABAP Development**
+- 🎯 Career goals: becoming a **Full Stack Web Developer** & **Senior ABAP Developer**
+- 💡 Interested in integrating enterprise systems (SAP) with modern web technologies
+- 💬 Ask me about anything — I love to discuss and share knowledge!
+- 📫 Reach me at **[shihabul.millah92@gmail.com](mailto:shihabul.millah92@gmail.com)**
+- ⚡ Fun fact: *Learning to code is like playing a game — the more you try, the higher your level!* 🎮
 
 <br clear="right"/>
 
@@ -104,7 +104,7 @@ Saya adalah seorang **Web Development & SAP ABAP Enthusiast** 🚀 yang berseman
 </p>
 
 <p align="center">
-  ⭐ Jangan lupa follow & kunjungi repositori saya — terima kasih sudah mampir! 🙏
+  ⭐ Don't forget to follow & check out my repositories — thanks for stopping by! 🙏
 </p>
 
 <!-- Footer Banner -->
