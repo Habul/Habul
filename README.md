@@ -55,7 +55,7 @@ I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves buildi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -63,16 +63,16 @@ I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Habul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Habul's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Habul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Habul's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habul&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Habul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Habul&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Habul&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I'm a passionate **Web Development & SAP ABAP Enthusiast** 🚀 who loves buildi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/h4bul/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/habulll">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
